@@ -12,6 +12,7 @@ import Payment from "./Payment.js";
 import OrderPlaced from "./OrderPlaced.js";
 import AddProduct from "./AddProduct.js";
 
+
 function App() {
   const [userId, setUserId] = useState(localStorage.getItem('user_id') || null);
   const [search, setSearch] = useState("");
