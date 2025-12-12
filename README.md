@@ -16,7 +16,6 @@
 -  Payment processing integration
 - Admin dashboard for product management
 -  Fast API with automatic documentation
-
 ---
 
 ## What You Can Do With Odyssey
