@@ -11,6 +11,7 @@ const MainPage = ({ search, userId, setProId }) => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
 
+  
   useEffect(() => {
     const fetchHomeData = async () => {
       try {
