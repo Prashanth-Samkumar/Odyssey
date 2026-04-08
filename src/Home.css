@@ -11,7 +11,7 @@
     font-size: 28px;
   }
   
-  /* Loading and Error Styles */
+  
   .loading-container, .error-container {
     display: flex;
     flex-direction: column;
