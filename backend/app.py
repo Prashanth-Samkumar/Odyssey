@@ -4,6 +4,7 @@ from entity import user, product, order, AddProduct, ProductRating
 from fastapi.middleware.cors import CORSMiddleware
 
 
+
 app = FastAPI()
 db = Database()
 
