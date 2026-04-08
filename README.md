@@ -9,6 +9,7 @@
 - **For Admins**: Add products, manage inventory, view sales analytics
 - **For Developers**: Full-stack e-commerce platform with modern tech stack
 
+ 
 ### Key Highlights
 -  Complete shopping cart functionality
 -  Secure user authentication system
